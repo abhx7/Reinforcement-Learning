@@ -10,6 +10,7 @@ While the instructor's official site contains high-quality **lecture notes**, th
 - **Past exam papers & model solutions** for practice  
 - **Assignments**<!-- , complete with my own attempted solutions and code implementations  -->
 - **Code examples and notebooks**<!--  , including implementations of dynamic programming, Q-learning, TD methods, policy gradients (REINFORCE, PPO), etc. -->
+- **External resources**
 
 ## Official Course Resources  
 You can find the instructor’s lecture notes and other official material here: [Prof. Prashanth’s CS6700 course site](https://www.cse.iitm.ac.in/~prashla/cs6700_2025.html)

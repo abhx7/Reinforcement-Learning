@@ -6,7 +6,7 @@ This repository is a student-curated supplement for the **CS6700: Reinforcement 
 
 While the instructor's official site contains high-quality **lecture notes**, this repo is designed to enhance learning by providing:
 
-- **Reference materials**: PDFs from key textbooks like *Bertsekas (Vol I & II)*, *Bertsekas & Tsitsiklis*, and *Sutton & Barto*  
+- **Reference materials**: PDFs of key textbooks like *Bertsekas (Vol I & II)*, *Bertsekas & Tsitsiklis*, and *Sutton & Barto*  
 - **Past exam papers & model solutions** for practice  
 - **Assignments**<!-- , complete with my own attempted solutions and code implementations  -->
 - **Code examples and notebooks**<!--  , including implementations of dynamic programming, Q-learning, TD methods, policy gradients (REINFORCE, PPO), etc. -->

@@ -25,7 +25,7 @@ You can find the instructor’s lecture notes and other official material here: 
 ### Topics 
 [![Reinforcement Learning, by the Book](https://img.youtube.com/vi/NFo9v_yKQXA/0.jpg)](https://www.youtube.com/watch?v=NFo9v_yKQXA)
 [![Bellman Equations, Dynamic Programming, Generalized Policy Iteration | Reinforcement Learning Part 2](https://img.youtube.com/vi/_j6pvGEchWU/0.jpg)](https://www.youtube.com/watch?v=_j6pvGEchWU)
-- [Reinforcement Learning - Google Deepmind](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ0
+- [Reinforcement Learning - Google Deepmind](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ0)
 
 ### Tools
 

@@ -23,10 +23,14 @@ You can find the instructor’s lecture notes and other official material here: 
 ## Additional Resources
 
 ### Topics 
+- [Markov Chains - clearly explained](https://www.youtube.com/watch?v=i3AkTO9HLXo&list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV&index=2)
 [![Reinforcement Learning, by the Book](https://img.youtube.com/vi/NFo9v_yKQXA/0.jpg)](https://www.youtube.com/watch?v=NFo9v_yKQXA)
 [![Bellman Equations, Dynamic Programming, Generalized Policy Iteration | Reinforcement Learning Part 2](https://img.youtube.com/vi/_j6pvGEchWU/0.jpg)](https://www.youtube.com/watch?v=_j6pvGEchWU)
-- [Reinforcement Learning - Google Deepmind Youtube Playlist](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ0)
 
+### Courses
+- [Reinforcement Learning - Google Deepmind Youtube Playlist](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ0)
+- [Dynamic Programming and Stochastic Control - MIT Courseware](https://ocw.mit.edu/courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/)
+- [Reinforcement Learning - NPTEL Proff. Ravindran](https://dsai.iitm.ac.in/~ravi/nptel-courses/reinforcement-learning/)
 ### Tools
 
 - [OpenAI GYm](https://openai.com/index/openai-gym-beta/)

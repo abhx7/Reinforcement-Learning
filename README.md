@@ -13,3 +13,8 @@ searching for rewards
 ## Resources 
 
 Check out Duane321's [repo](https://github.com/Duane321/reinforcement-learning-resources) with a host of resouces. 
+
+
+## Videos
+
+- [RL - MIT](https://www.youtube.com/watch?v=to-lHJfK4pw)

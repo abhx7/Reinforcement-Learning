@@ -18,3 +18,8 @@ Check out Duane321's [repo](https://github.com/Duane321/reinforcement-learning-r
 ## Videos
 
 - [RL - MIT](https://www.youtube.com/watch?v=to-lHJfK4pw)
+
+
+## Courses
+
+- 

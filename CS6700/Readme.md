@@ -35,10 +35,11 @@ You can find the instructor’s lecture notes and other official material here: 
 - [Dynamic Programming and Stochastic Control - MIT Courseware](https://ocw.mit.edu/courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/) : "write about course"
 - [Reinforcement Learning - NPTEL Proff. Ravindran](https://dsai.iitm.ac.in/~ravi/nptel-courses/reinforcement-learning/) : "write about course"
  
-### Tools
+### Miscellaneous 
 
-- [OpenAI GYm](https://openai.com/index/openai-gym-beta/)
-- 
+- [OpenAI Gym](https://openai.com/index/openai-gym-beta/)
+- [RL Projects](https://www.aicrowd.com/challenges/rl-project-2021)
+- [RLlib: Industry-Grade, Scalable Reinforcement Learning](https://docs.ray.io/en/latest/rllib/index.html)
 <!-- ## Repo Structure (Suggested) -->
 
 <!-- NOTE: Remember to update "refs" only with textbooks already freely available or provided officially. -->

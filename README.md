@@ -22,4 +22,4 @@ Check out Duane321's [repo](https://github.com/Duane321/reinforcement-learning-r
 
 ## Courses
 
-- 
+- [Stochastic Algorithms for Nonconvex Optimization and Reinforcement Learning](https://people.iith.ac.in/m_vidyasagar/RL-Notes.pdf) - Notes, IITH, Dr. Mathukumalli Vidyasagar
